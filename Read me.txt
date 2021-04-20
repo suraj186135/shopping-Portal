@@ -1,0 +1,19 @@
+Login Details For User :
+
+Username : sagar@gmail.com
+
+Password : sagar
+
+Username : kumar@gmail.com
+
+Password : kumar
+
+Username : suraj@gmail.com
+
+Password : suraj
+
+For Admin :
+
+User Name : admin
+
+Password : Test@123
